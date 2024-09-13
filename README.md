@@ -1,7 +1,5 @@
 ## Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=LibraHp&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LibraHp&layout=compact&theme=tokyonight)
-![](https://github-readme-activity-graph.cyclic.app/graph?username=LibraHp&theme=dracula)
 
 <!--
 **LibraHp/LibraHp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
